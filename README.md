@@ -1,6 +1,6 @@
-#Overview
-##What is the website for?
-###This is a website for the German music band – Rammstein.
+# Overview
+## What is the website for?
+### This is a website for the German music band – Rammstein.
 Purpose
 The site consists of several webpages containing information about Rammstein. Users can explore the creativity of the group by reviewing the information provided. Each page presents a different aspect of the group's work. Viewers can enjoy video clips, each of which illustrate or recreates in an intriguing way the words of the vocal. The site also includes just audio files. Users can read information about the group's history and musical direction, as well as brief curriculum vitae on the professional development of its members. All six studio albums are shown in sequential order of their release years + songs as well as their duration. An option for users to contact the group is provided.
 How does it work?
